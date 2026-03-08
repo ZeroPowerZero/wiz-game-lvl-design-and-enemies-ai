@@ -2,17 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pp271upkyqq"
-path.s3tc="res://.godot/imported/genisys_prototype_elevator_light_emission.png-ec5cc3e5d8b35a8fe6de35c1f9077fda.s3tc.ctex"
+uid="uid://dob3apo5twrx4"
+path.s3tc="res://.godot/imported/house_lowpoly_1.png-0c504f4baef17352fc96f5fc2a9a0072.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
+generator_parameters={
+"md5": "1af0da427189a265e8899982e0f39f94"
+}
 
 [deps]
 
-source_file="res://textures/emission/genisys_prototype_elevator_light_emission.png"
-dest_files=["res://.godot/imported/genisys_prototype_elevator_light_emission.png-ec5cc3e5d8b35a8fe6de35c1f9077fda.s3tc.ctex"]
+source_file="res://assests/house_lowpoly_1.png"
+dest_files=["res://.godot/imported/house_lowpoly_1.png-0c504f4baef17352fc96f5fc2a9a0072.s3tc.ctex"]
 
 [params]
 

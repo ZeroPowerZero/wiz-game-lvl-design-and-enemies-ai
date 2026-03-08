@@ -2,17 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pp271upkyqq"
-path.s3tc="res://.godot/imported/genisys_prototype_elevator_light_emission.png-ec5cc3e5d8b35a8fe6de35c1f9077fda.s3tc.ctex"
+uid="uid://d03jmjtdgsl0f"
+path.s3tc="res://.godot/imported/modular_lowpoly_medieval_environment_4.png-077ae52c8f0e5330b9e34516b0962cbe.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
+generator_parameters={
+"md5": "4387e0eaeadc4b71cab939496f03df51"
+}
 
 [deps]
 
-source_file="res://textures/emission/genisys_prototype_elevator_light_emission.png"
-dest_files=["res://.godot/imported/genisys_prototype_elevator_light_emission.png-ec5cc3e5d8b35a8fe6de35c1f9077fda.s3tc.ctex"]
+source_file="res://assests/modular_lowpoly_medieval_environment_4.png"
+dest_files=["res://.godot/imported/modular_lowpoly_medieval_environment_4.png-077ae52c8f0e5330b9e34516b0962cbe.s3tc.ctex"]
 
 [params]
 

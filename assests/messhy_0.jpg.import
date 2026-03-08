@@ -2,17 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pp271upkyqq"
-path.s3tc="res://.godot/imported/genisys_prototype_elevator_light_emission.png-ec5cc3e5d8b35a8fe6de35c1f9077fda.s3tc.ctex"
+uid="uid://ccgl0whw03tvd"
+path.s3tc="res://.godot/imported/messhy_0.jpg-481d09a2ee60840b3b59e26160ae2136.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
+generator_parameters={
+"md5": "a5ef8b44364627b66d3c9f9ce1a52144"
+}
 
 [deps]
 
-source_file="res://textures/emission/genisys_prototype_elevator_light_emission.png"
-dest_files=["res://.godot/imported/genisys_prototype_elevator_light_emission.png-ec5cc3e5d8b35a8fe6de35c1f9077fda.s3tc.ctex"]
+source_file="res://assests/messhy_0.jpg"
+dest_files=["res://.godot/imported/messhy_0.jpg-481d09a2ee60840b3b59e26160ae2136.s3tc.ctex"]
 
 [params]
 

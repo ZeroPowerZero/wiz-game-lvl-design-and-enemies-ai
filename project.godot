@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="wiz_game_lvlDesign_and_enemies_ai"
+run/main_scene="uid://5ktfvi6j2j7m"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_3d_cursor/plugin.cfg")
 
 [rendering]
 
