@@ -40,7 +40,7 @@ func _input(event):
 
 
 func _physics_process(delta):
-
+	print("player :", self.position)
 	# gravity
 	if not is_on_floor():
 		velocity.y -= gravity * delta

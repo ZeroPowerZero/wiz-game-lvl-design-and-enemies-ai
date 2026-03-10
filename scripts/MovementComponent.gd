@@ -14,6 +14,7 @@ func _ready():
 
 func _physics_process(delta):
 
+
 	var input_dir = Vector2.ZERO
 
 	input_dir.x = Input.get_action_strength("move_right") - Input.get_action_strength("move_left")
