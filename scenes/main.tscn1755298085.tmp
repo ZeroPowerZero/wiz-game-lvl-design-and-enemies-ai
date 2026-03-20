@@ -10,7 +10,6 @@
 [ext_resource type="PackedScene" uid="uid://bqu1olob1nroi" path="res://assests/lowpoly_cartoon_house.glb" id="8_jkv2x"]
 [ext_resource type="PackedScene" uid="uid://djhvg1p03vrsi" path="res://assests/lowpoly_medieval_house.glb" id="9_jbj1t"]
 [ext_resource type="PackedScene" uid="uid://b1pqww2catkvd" path="res://scenes/player/character_body_3d.tscn" id="10_choun"]
-[ext_resource type="PackedScene" uid="uid://cairwpdb1w2o6" path="res://scenes/enemies/skelly_close_range.tscn" id="11_ya4ey"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_dp3eg"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
@@ -128,10 +127,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 20.064415, -8.802916, 84.9864
 [node name="Sketchfab_Scene4" parent="." unique_id=406939982 instance=ExtResource("8_jkv2x")]
 transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 12, -7.544506, 89)
 
-[node name="CharacterBody3D" parent="." unique_id=772270801 groups=["player"] instance=ExtResource("10_choun")]
+[node name="CharacterBody3D" parent="." unique_id=772270801 instance=ExtResource("10_choun")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.0854862, -6.443489, 53.908234)
-
-[node name="skelly_close_range" parent="." unique_id=816918041 instance=ExtResource("11_ya4ey")]
-transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 5.116349, -6.4989986, 52.63059)
 
 [editable path="CharacterBody3D"]
